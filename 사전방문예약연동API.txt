@@ -1,5 +1,0 @@
-https://doc.aptner.com/api/pc
-
-개발서버 토큰 키
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJORVdLT1JFQSIsInJvbGVzIjoiUEMiLCJpc3MiOiJBUFRORVIiLCJleHAiOjMxNjMzMzgxMjUsImlkeCI6IiIsImlhdCI6MTU4NTUzMzcyNX0.PCqQ4dGdOWRLLMGSEQUESJWD3-Kg2tbaeirdBT98IjY  
-
